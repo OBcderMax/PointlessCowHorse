@@ -5,7 +5,7 @@
 
 ### 主要想表达的是：
 
--CptMaxwell牛逼！！！！！！！！！！！！！1
+- CptMaxwell牛逼！！！！！！！！！！！！！1
 
 ### Support or Contact
 
@@ -15,7 +15,8 @@ Having trouble with Pages? Check out our [QQ:1023460291](https://qm.qq.com/cgi-b
 
 ### 什么是 Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. asdfghjkl
+2. Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
