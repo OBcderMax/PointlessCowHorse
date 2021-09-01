@@ -5,7 +5,7 @@
 
 ### 主要想表达的是：
 
-CptMaxwell牛逼！！！！！！！！！！！！！1
+-CptMaxwell牛逼！！！！！！！！！！！！！1
 
 ### Support or Contact
 
