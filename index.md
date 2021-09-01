@@ -1,6 +1,6 @@
 ## 没有什么技术含量的Markdown瀑布式流水账试作体
 
-访问百度 [baidu.com](https://www.baidu.com)访问不了来打我。
+访问百度[baidu.com](https://www.baidu.com)访问不了来打我。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
