@@ -22,7 +22,7 @@
 
 ### 附录：
 
-###什么是静态页面？
+### 什么是静态页面？
 [静态页面百度百科](https://baike.baidu.com/item/%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2/9092331?fr=aladdin)
 
 #### 什么是 Markdown
